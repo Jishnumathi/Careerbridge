@@ -1,0 +1,8 @@
+{
+  "name": "Remix CareerBridge",
+  "description": "A centralized MERN-based platform streamlining campus recruitment, job applications, and placement management for students, recruiters, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
